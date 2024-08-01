@@ -25,7 +25,8 @@ The dashboard should provide real-time insights into key performance indicators 
 
 ## Dashboard:
 
-https://github.com/sumitnawadkar/PowerBI/blob/80f6eeca1d04bd7e8fd3667280adeaa38ac19250/Car%20Sales%20dashboard.png
+![Car Sales dashboard](https://github.com/user-attachments/assets/89c385bc-c724-4d6c-a8e2-24c4aeaa98ec)
+
 
 
 
