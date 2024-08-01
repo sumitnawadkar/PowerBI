@@ -25,6 +25,9 @@ The dashboard should provide real-time insights into key performance indicators 
 
 ## Dashboard:
 
+![Car Sales Dashboard](https://github.com/user-attachments/assets/c1b05fbd-d3f5-4d91-a523-bd6214bb404e)
+
+
 
 
 
