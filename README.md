@@ -1,9 +1,12 @@
 # Power BI Dashboard Repository
 
+![powerbi](https://github.com/user-attachments/assets/8c1ce01d-9f69-4ebf-896c-caec5c45ba48)
 
+# Introduction
 
+This repository serves as a collection of Power BI projects and dashboards, each focusing on different aspects such as car analysis and more. Power BI is a powerful business intelligence tool that helps visualize and analyze data effectively. Explore various projects to gain insights and visualizations on diverse datasets.
 
-# Car Sales Analysis Project
+## Car Sales Analysis Project
 
 ## Objective
 
